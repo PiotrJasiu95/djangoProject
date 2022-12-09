@@ -1,0 +1,2 @@
+[ssh]
+    private_key = /home/piotrjasiu95/.ssh/id_rsa
